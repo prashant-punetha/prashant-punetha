@@ -96,26 +96,17 @@ Software Development & System Design
 
 ## 🚀 Featured Projects
 
-<!-- Update repository links below with your actual project URLs -->
-
-### 🔹 [Machine Learning Algorithms & Predictive Models](https://github.com/prashant-punetha)
-*Implementation and comparative analysis of supervised learning algorithms, evaluation metrics, and predictive modeling.*
-- **Technologies:** `Python`, `Scikit-learn`, `NumPy`, `Pandas`, `Matplotlib`
-- **Repository:** [prashant-punetha/machine-learning-projects](https://github.com/prashant-punetha) *(Replace with repository link)*
+### 🔹 [C++ to Python Transpiler](https://github.com/prashant-punetha/cpp_to_python_transpiler)
+*A source-to-source code transpiler designed to parse and translate C++ source code into clean, equivalent Python code, handling syntax translation and language construct mapping.*
+- **Technologies:** `C++`, `Python`, `Syntax Parsing`, `Transpilation`
+- **Repository:** [prashant-punetha/cpp_to_python_transpiler](https://github.com/prashant-punetha/cpp_to_python_transpiler)
 
 ---
 
-### 🔹 [Data Structures & Algorithms Problem Solving](https://github.com/prashant-punetha)
-*Curated collection of optimized problem solutions and algorithmic implementations in C++ and Python.*
-- **Technologies:** `C++`, `Python`, `Data Structures`, `Algorithms`
-- **Repository:** [prashant-punetha/dsa-problem-solving](https://github.com/prashant-punetha) *(Replace with repository link)*
-
----
-
-### 🔹 [Exploratory Data Analysis & Visualization](https://github.com/prashant-punetha)
-*Data exploration pipelines featuring data cleaning, statistical insights, and visual reporting on real-world datasets.*
-- **Technologies:** `Python`, `Pandas`, `NumPy`, `Matplotlib`
-- **Repository:** [prashant-punetha/data-analysis-projects](https://github.com/prashant-punetha) *(Replace with repository link)*
+### 🔹 [STUDYMATE PRO — The Smart Learning App](https://github.com/prashant-punetha/STUDYMATE-PRO-the-smart-learning-app-)
+*An intelligent learning and productivity application built to assist students in organizing study materials, enhancing focus, and streamlining learning workflows.*
+- **Technologies:** `Python`, `Software Development`, `Problem Solving`
+- **Repository:** [prashant-punetha/STUDYMATE-PRO-the-smart-learning-app-](https://github.com/prashant-punetha/STUDYMATE-PRO-the-smart-learning-app-)
 
 ---
 
