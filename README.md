@@ -30,41 +30,39 @@ I love exploring new technologies to continuously grow as an engineer. Currently
 
 ## 🛠️ Languages & Technologies
 
-**Programming Languages:**
-<br />
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=c,cpp,py,html,css" alt="Programming Languages" />
-</a>
-
-<br />
-
-**Data Science & Machine Learning:**
-<br />
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib,sklearn" alt="Data Science & Machine Learning" />
-</a>
-
-<br />
-
-**Tools & Platforms:**
-<br />
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" alt="Tools & Platforms" />
-</a>
-
-<br />
-
-**Core Competencies:**
-<br />
-<p align="left">
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-Foundations-0284c7?style=flat&logo=openai&logoColor=white" alt="Artificial Intelligence" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-Algorithms-2563eb?style=flat&logo=scikit-learn&logoColor=white" alt="Machine Learning" />
-  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-DSA-ea580c?style=flat&logo=c%2B%2B&logoColor=white" alt="Data Structures & Algorithms" />
-  <a href="https://leetcode.com/u/prashant_9127/" target="_blank">
-    <img src="https://img.shields.io/badge/Problem%20Solving-LeetCode-f59e0b?style=flat&logo=leetcode&logoColor=white" alt="Problem Solving" />
+### 🔗 Programming Languages
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,html,css" alt="Programming Languages" />
   </a>
-  <img src="https://img.shields.io/badge/Data%20Analysis-NumPy%20%26%20Pandas-14b8a6?style=flat&logo=pandas&logoColor=white" alt="Data Analysis" />
-  <img src="https://img.shields.io/badge/Real--World-Project%20Development-10b981?style=flat&logo=github&logoColor=white" alt="Real-World Project Development" />
+</p>
+
+### 🔗 ML & AI
+<p align="center">
+  <img src="https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
+  <img src="https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=000000" alt="HuggingFace" />
+  <img src="https://img.shields.io/badge/-Reinforcement%20Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="Reinforcement Learning" />
+  <img src="https://img.shields.io/badge/-Matplotlib-11557c?style=flat&logo=matplotlib&logoColor=white" alt="Matplotlib" />
+</p>
+
+### 🔗 DevOps & Tools
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,docker,github,githubactions,linux,vscode" alt="DevOps & Tools" />
+  </a>
+</p>
+
+### 🔗 Concepts
+<p align="center">
+  <img src="https://img.shields.io/badge/-REST%20APIs-005571?style=flat&logo=fastapi&logoColor=white" alt="REST APIs" />
+  <a href="https://leetcode.com/u/prashant_9127/" target="_blank">
+    <img src="https://img.shields.io/badge/-DSA-2563EB?style=flat&logo=c%2B%2B&logoColor=white" alt="Data Structures & Algorithms" />
+  </a>
+  <img src="https://img.shields.io/badge/-OOP-6B21A8?style=flat" alt="Object Oriented Programming" />
+  <img src="https://img.shields.io/badge/-Computer%20Networks-0B3B60?style=flat" alt="Computer Networks" />
+  <img src="https://img.shields.io/badge/-Operating%20Systems-24292e?style=flat&logo=linux&logoColor=white" alt="Operating Systems" />
 </p>
 
 ---
