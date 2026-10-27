@@ -60,7 +60,9 @@ I love exploring new technologies to continuously grow as an engineer. Currently
   <img src="https://img.shields.io/badge/Artificial%20Intelligence-Foundations-0284c7?style=flat&logo=openai&logoColor=white" alt="Artificial Intelligence" />
   <img src="https://img.shields.io/badge/Machine%20Learning-Algorithms-2563eb?style=flat&logo=scikit-learn&logoColor=white" alt="Machine Learning" />
   <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-DSA-ea580c?style=flat&logo=c%2B%2B&logoColor=white" alt="Data Structures & Algorithms" />
-  <img src="https://img.shields.io/badge/Problem%20Solving-LeetCode-f59e0b?style=flat&logo=leetcode&logoColor=white" alt="Problem Solving" />
+  <a href="https://leetcode.com/u/prashant_9127/" target="_blank">
+    <img src="https://img.shields.io/badge/Problem%20Solving-LeetCode-f59e0b?style=flat&logo=leetcode&logoColor=white" alt="Problem Solving" />
+  </a>
   <img src="https://img.shields.io/badge/Data%20Analysis-NumPy%20%26%20Pandas-14b8a6?style=flat&logo=pandas&logoColor=white" alt="Data Analysis" />
   <img src="https://img.shields.io/badge/Real--World-Project%20Development-10b981?style=flat&logo=github&logoColor=white" alt="Real-World Project Development" />
 </p>
@@ -121,11 +123,11 @@ Feel free to connect, collaborate, or discuss technology:
   <a href="mailto:prashantpunetha74@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-prashantpunetha74%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/prashant-punetha-55310237b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Prashant%20Punetha-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://leetcode.com/u/YOUR-LEETCODE-USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat&logo=leetcode&logoColor=white" alt="LeetCode" />
+  <a href="https://leetcode.com/u/prashant_9127/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-prashant__9127-FFA116?style=flat&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
 </p>
 
