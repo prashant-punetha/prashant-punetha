@@ -70,10 +70,17 @@ I love exploring new technologies to continuously grow as an engineer. Currently
 ## 📚 Currently Learning
 
 <p align="center">
-  <img src="./assets/currently-learning.svg" alt="Currently Learning Terminal" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Artificial+Intelligence+%26+Machine+Learning;Machine+Learning+Algorithms+%26+Optimization;Data+Structures+%26+Algorithms;Data+Analysis+with+NumPy%2C+Pandas+%26+Matplotlib;Model+Building+with+Scikit-learn;Software+Development+%26+System+Design" alt="Currently Learning Typing Animation" />
 </p>
 
-> 🎯 **Active Focus:** Mastering foundational Machine Learning workflows and strengthening algorithmic problem-solving while engineering practical, real-world software tools.
+```text
+Artificial Intelligence & Machine Learning
+Machine Learning Algorithms & Optimization
+Data Structures & Algorithms
+Data Analysis with NumPy, Pandas & Matplotlib
+Model Building with Scikit-learn
+Software Development & System Design
+```
 
 ---
 
