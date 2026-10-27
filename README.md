@@ -69,26 +69,9 @@ I love exploring new technologies to continuously grow as an engineer. Currently
 
 ## 📚 Currently Learning
 
-```text
-$ prashant --status "currently-learning"
-
-[+] Artificial Intelligence & Machine Learning
-    ├── Supervised & Unsupervised ML Algorithms & Optimization
-    ├── Deep Learning Foundations & HuggingFace Models
-    └── Model Evaluation & Scikit-learn Pipelines
-
-[+] Data Structures & Algorithms
-    ├── Algorithmic Problem Solving in C++ & Python (Trees, Graphs, DP)
-    └── Complexity Analysis & Daily Practice on LeetCode
-
-[+] Data Science & Analytics
-    ├── High-Performance Data Processing with NumPy & Pandas
-    └── Exploratory Data Analysis (EDA) & Visualization with Matplotlib
-
-[+] Software Engineering & Systems
-    ├── Source-to-Source Code Translation & AST Parsing
-    └── Object-Oriented Design (OOP) & Clean Architecture
-```
+<p align="center">
+  <img src="./assets/currently-learning.svg" alt="Currently Learning Terminal" width="100%" />
+</p>
 
 > 🎯 **Active Focus:** Mastering foundational Machine Learning workflows and strengthening algorithmic problem-solving while engineering practical, real-world software tools.
 
